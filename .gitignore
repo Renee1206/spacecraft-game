@@ -1,0 +1,34 @@
+# Visual Studio user/cache files
+.vs/
+*.user
+*.suo
+*.ncb
+*.opt
+*.plg
+
+# Build output and intermediate files
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog/
+*.log
+*.recipe
+*.FileListAbsolute.txt
+*.exe
+
+# Legacy conversion/build logs
+UpgradeLog*.htm
+
+# Empty backup folder / legacy project files are kept locally but not committed
+Backup/
+*.dsp
+*.dsw
+
+# Unused assets not referenced by the current program
+spaceship.3DS
+spaceshiptexture.bmp
